@@ -1,0 +1,33 @@
+export const Spacing = {
+  xxsmall: 4,
+  xsmall: 8,
+  smaller: 10,
+  small: 12,
+  normal: 16,
+  medium: 20,
+  large: 24,
+  larger: 32,
+  xlarge: 48,
+  xxlarge: 64,
+  xxxlarge: 72,
+}
+
+export const FontSize = {
+  xxsmall: 5,
+  xsmall: 8,
+  smaller: 10,
+  small: 12,
+  normal: 14,
+  mediumNormal: 15,
+  medium: 16,
+  mediumLarge: 18,
+  large: 20,
+  larger: 24,
+  xlarge: 28,
+  xlarger: 30,
+  xxlarge: 32,
+  xxxlarge: 36,
+  huge: 44,
+  huger: 50,
+  xhuge: 55,
+}
